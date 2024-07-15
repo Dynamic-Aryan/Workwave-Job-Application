@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 This site is deployed at [Work Wave](https://workwave-job-application-jan1d14bs.vercel.app/)   currently work in progress in deployment.
   
 ## Getting Started
-## SOme images of this app
+## Some images of this app
 
 ![Screenshot 2024-07-15 232949](https://github.com/user-attachments/assets/e52bccd8-5cc4-4bc3-aaf3-32f0cfc1c597)
 ![Screenshot 2024-07-15 233051](https://github.com/user-attachments/assets/a2e3f8e5-2e7c-4bac-8024-40407de5525d)

@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 This site is deployed at [Work Wave](https://workwave-job-application-jan1d14bs.vercel.app/)   currently work in progress in deployment.
   
 ## Getting Started
+
+
+https://github.com/user-attachments/assets/85ffbe5c-ad53-4da8-81cc-cb1c92d448fb
+
 ## Some images of this app
+
+
 
 ![Screenshot 2024-07-15 232949](https://github.com/user-attachments/assets/e52bccd8-5cc4-4bc3-aaf3-32f0cfc1c597)
 ![Screenshot 2024-07-15 233051](https://github.com/user-attachments/assets/a2e3f8e5-2e7c-4bac-8024-40407de5525d)
@@ -15,6 +21,7 @@ This site is deployed at [Work Wave](https://workwave-job-application-jan1d14bs.
 ![Screenshot 2024-07-15 233401](https://github.com/user-attachments/assets/85a25730-c939-4a56-ba06-2b8ab2d79e97)
 ![Screenshot 2024-07-15 233415](https://github.com/user-attachments/assets/48ece23e-3dd0-4dfc-9bba-b55ebd8a29f7)
 ![Screenshot 2024-07-15 233432](https://github.com/user-attachments/assets/aec1996c-93ad-4221-b629-56beac2cbee4)
+
 
 First, run the development server:
 
